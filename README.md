@@ -1,7 +1,5 @@
-# Source-Code-ACTEEVAZ
+# USER MANUAL ACTEEVAZ
 ACTEEVAZ merupakan aplikasi yang membantu pencatatan dan pengelolaan aktiva tetap bagi perusahaan. Aplikasi ini terinspirasi dari software ACCURATE versi 5. Source code ini memodifikasi modul "Aktiva Tetap" dari software ACCURATE versi 5. Aplikasi ini disusun menggunakan R Studio dan R Shiny untuk membuatnya menjadi website interaktif. 
-
-Welcome to the USER MANUAL of Source-Code-ACTEEVAZ wiki!
 
 Panduan Instalasi ACTEEVAZ:
 1. Buka file Source-Code-ACTEEVAZ_FIX.R pada repository Source-Code-ACTEEVAZ
