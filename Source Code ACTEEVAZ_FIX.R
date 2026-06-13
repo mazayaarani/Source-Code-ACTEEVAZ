@@ -980,7 +980,7 @@ ui <- dashboardPage(
                                          br(), br(),
                                          DTOutput("nfa_dep_schedule"),
                                          tags$p(class = "form-note",
-                                                "* Tabel di atas adalah simulasi. Jurnal otomatis dibuat saat Period End di ACCURATE.")
+                                                "* Tabel di atas adalah simulasi. Jurnal otomatis dibuat saat Period End di Acteevaz.")
                                 )
                     ),
                     hr(),
