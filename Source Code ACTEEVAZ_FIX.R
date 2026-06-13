@@ -39,7 +39,7 @@ fa_type_data_init <- data.frame(
   stringsAsFactors = FALSE
 )
 
-# --- C. Fixed Asset List ---
+#C. Fixed Asset List
 fa_list_data_init <- data.frame(
   asset_code      = c("AT-001", "AT-002", "AT-003"),
   asset_desc      = c("Toyota Avanza 2020", "Gedung Kantor Pusat", "Laptop Dell XPS"),
